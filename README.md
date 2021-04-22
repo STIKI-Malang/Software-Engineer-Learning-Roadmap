@@ -1,4 +1,5 @@
 # Software Engineer Learning Roadmap
+This is a software engineer learning roadmap compiled from various sources.
 
 ## Computer
 [What is a computer?](https://edu.gcfglobal.org/en/computerbasics/what-is-a-computer/1/) <br/>
