@@ -41,3 +41,14 @@ This is a software engineer learning roadmap compiled from various sources.
 [Beginner’s Guide: What is a Domain Name and How Do Domains Work?](https://www.wpbeginner.com/beginners-guide/beginners-guide-what-is-a-domain-name-and-how-do-domains-work/) <br/>
 [What is a server?](https://www.computerhope.com/jargon/s/server.htm#examples) <br/>
 [What is Web Hosting?](https://www.namecheap.com/hosting/what-is-web-hosting-definition/)
+
+## Frontend
+### HTML - Structuring the Web
+[Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) <br/>
+[Getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) <br/>
+[What’s in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML) <br/>
+[HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)<br/>
+[Creating hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)<br/>
+[Advanced text formatting](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting) <br/>
+
+
