@@ -20,7 +20,17 @@ This is a software engineer learning roadmap compiled from various sources.
 [Operating System Market Share Worldwide](https://gs.statcounter.com/os-market-share)
 
 ## Terminal
-[What is a Terminal?](https://itconnect.uw.edu/learn/workshops/online-tutorials/web-publishing/what-is-a-terminal/)
+[What is a Terminal?](https://itconnect.uw.edu/learn/workshops/online-tutorials/web-publishing/what-is-a-terminal/) <br/>
+[Entering Commands](http://linuxcommand.org/lc3_lts0010.php)<br/>
+[Navigation](http://linuxcommand.org/lc3_lts0020.php)<br/>
+[Looking Around](http://linuxcommand.org/lc3_lts0030.php)<br/>
+[Manipulating Files](http://linuxcommand.org/lc3_lts0050.php)<br/>
+[Working With Commands In Depth](http://linuxcommand.org/lc3_lts0060.php)<br/>
+[Manipulating Input and Output (I/O Redirection)](http://linuxcommand.org/lc3_lts0070.php)<br/>
+[Command Expansion](http://linuxcommand.org/lc3_lts0080.php)<br/>
+[Permissions (Mac and Linux only)](http://linuxcommand.org/lc3_lts0090.php)<br/>
+[Guided Tour of System Directories (Mac and Linux only)](http://linuxcommand.org/lc3_lts0040.php)<br/>
+[Job Control (Mac and Linux only)](http://linuxcommand.org/lc3_lts0100.php)
 
 ## Internet
 [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) <br/>
