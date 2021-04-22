@@ -19,6 +19,9 @@ This is a software engineer learning roadmap compiled from various sources.
 [Difference between 32-Bit vs. 64 Bit Operating System](https://www.guru99.com/operating-system-tutorial.html#9)<br/>
 [Operating System Market Share Worldwide](https://gs.statcounter.com/os-market-share)
 
+## Terminal
+[What is a Terminal?](https://itconnect.uw.edu/learn/workshops/online-tutorials/web-publishing/what-is-a-terminal/)
+
 ## Internet
 [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) <br/>
 [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) <br/>
