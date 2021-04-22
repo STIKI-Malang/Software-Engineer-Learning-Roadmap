@@ -15,4 +15,5 @@ This is a software engineer learning roadmap compiled from various sources.
 [What Is a Web Browser?](https://www.avast.com/c-what-is-a-web-browser) <br/>
 [How do Web Browsers Work?](https://medium.com/@bibekshah09/how-do-web-browsers-work-1245d5b06c51)<br/>
 [What Is DNS? | How DNS Works](https://www.cloudflare.com/learning/dns/what-is-dns/) <br/>
-[Beginner’s Guide: What is a Domain Name and How Do Domains Work?](https://www.wpbeginner.com/beginners-guide/beginners-guide-what-is-a-domain-name-and-how-do-domains-work/)
+[Beginner’s Guide: What is a Domain Name and How Do Domains Work?](https://www.wpbeginner.com/beginners-guide/beginners-guide-what-is-a-domain-name-and-how-do-domains-work/) <br/>
+[What is a server?](https://www.computerhope.com/jargon/s/server.htm#examples)
