@@ -15,8 +15,9 @@ This is a software engineer learning roadmap compiled from various sources.
 [Types of Operating System (OS)](https://www.guru99.com/operating-system-tutorial.html#7)<br/>
 [Functions of Operating System](https://www.guru99.com/operating-system-tutorial.html#6)<br/>
 [What is a Kernel?](https://www.guru99.com/operating-system-tutorial.html#5)<br/>
-[Difference between Firmware and Operating System](https://www.guru99.com/operating-system-tutorial.html#8)
-[Difference between 32-Bit vs. 64 Bit Operating System](https://www.guru99.com/operating-system-tutorial.html#9)
+[Difference between Firmware and Operating System](https://www.guru99.com/operating-system-tutorial.html#8)<br/>
+[Difference between 32-Bit vs. 64 Bit Operating System](https://www.guru99.com/operating-system-tutorial.html#9)<br/>
+[Operating System Market Share Worldwide](https://gs.statcounter.com/os-market-share)
 
 ## Internet
 [How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) <br/>
