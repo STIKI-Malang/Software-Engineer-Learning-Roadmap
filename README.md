@@ -108,3 +108,16 @@ This is a software engineer learning roadmap compiled from various sources.
 [JavaScript Loops](https://www.guru99.com/how-to-use-loops-in-javascript.html)<br/>
 [Conditional Statements](https://www.guru99.com/how-to-use-conditional-statements-in-javascript.html)<br/>
 
+
+[JavaScript Define & Call Functions](https://www.guru99.com/learn-functions-in-javascript-in-5-minutes.html)<br/>
+[Cookies in JavaScript](https://www.guru99.com/cookies-in-javascript-ultimate-guide.html)<br/>
+[JavaScript DOM Tutorial](https://www.guru99.com/how-to-use-dom-and-events-in-javascript.html)<br/>
+[Object Oriented JavaScript(OOJS) Tutorial](https://www.guru99.com/learn-object-oriented-javascript.html)<br/>
+[Internal & External JavaScript](https://www.guru99.com/all-about-internal-external-javascript.html)<br/>
+[Javascript Examples](https://www.guru99.com/practical-code-examples-using-javascript.html)<br/>
+[JavaScript Unit Testing Frameworks](https://www.guru99.com/javascript-unit-testing-frameworks.html)<br/>
+[TypeScript Tutorial](https://www.guru99.com/typescript-tutorial.html)<br/>
+[Typescript vs JavaScript](https://www.guru99.com/typescript-vs-javascript.html)<br/>
+[Java vs JavaScript](https://www.guru99.com/difference-between-java-and-javascript.html)<br/>
+[QuickSort in JavaScript](https://www.guru99.com/quicksort-in-javascript.html)<br/>
+[Difference Between =, ==, and === in JavaScript](https://www.guru99.com/difference-equality-strict-operator-javascript.html)<br/>
