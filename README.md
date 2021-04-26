@@ -122,7 +122,7 @@ This is a software engineer learning roadmap compiled from various sources.
 
 ## Backend
 ### PHP
-[Basic & Advanced PHP Tutorial by Tutorial Republic](https://www.tutorialrepublic.com/php-tutorial/)<br/><br/>
+[Basic & Advanced PHP Tutorial by Tutorial Republic](https://www.tutorialrepublic.com/php-tutorial/)<br/>
 [Tutorial PHP Bahasa Indonesia](https://youtu.be/TaBWhb5SPfc)<br/>
 [PHP For Absolute Beginners | 6.5 Hour Course](https://youtu.be/2eebptXfEvw)<br/>
 ### Python
