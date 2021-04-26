@@ -101,4 +101,10 @@ This is a software engineer learning roadmap compiled from various sources.
 [Legacy layout methods](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Legacy_Layout_Methods)<br/>
 [Supporting older browsers](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Supporting_Older_Browsers)<br/>
 
-### JavaScript — Dynamic client-side scripting
+### JavaScript
+[What is JavaScript?](https://www.guru99.com/introduction-to-javascript.html)<br/>
+[JavaScript Variables](https://www.guru99.com/using-variables-in-javascript.html)<br/>
+[JavaScript Array Methods](https://www.guru99.com/learn-arrays-in-javascript.html)<br/>
+[JavaScript Loops](https://www.guru99.com/how-to-use-loops-in-javascript.html)<br/>
+[Conditional Statements](https://www.guru99.com/how-to-use-conditional-statements-in-javascript.html)<br/>
+
