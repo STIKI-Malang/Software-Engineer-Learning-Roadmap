@@ -132,7 +132,7 @@ This is a software engineer learning roadmap compiled from various sources.
 ### Rust
 
 ## Version Control Systems (GIT)
-
+[Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)<br/>
 ## Databases
 
 ### Relational Databases
