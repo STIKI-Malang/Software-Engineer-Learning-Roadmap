@@ -101,4 +101,4 @@ This is a software engineer learning roadmap compiled from various sources.
 [Legacy layout methods](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Legacy_Layout_Methods)<br/>
 [Supporting older browsers](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Supporting_Older_Browsers)<br/>
 
-#### JavaScript — Dynamic client-side scripting
+### JavaScript — Dynamic client-side scripting
