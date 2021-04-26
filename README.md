@@ -137,6 +137,7 @@ This is a software engineer learning roadmap compiled from various sources.
 
 ### Relational Databases
 #### MySQL
+[Tutorial MySQL Bahasa Indonesia Untuk Pemula. Lengkap, Dari Select sampai Trigger](https://youtu.be/MtVXHsX8Ezg)<br/>
 #### PostgreeSQL
 
 ### NoSQL Databases
