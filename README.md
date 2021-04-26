@@ -107,8 +107,6 @@ This is a software engineer learning roadmap compiled from various sources.
 [JavaScript Array Methods](https://www.guru99.com/learn-arrays-in-javascript.html)<br/>
 [JavaScript Loops](https://www.guru99.com/how-to-use-loops-in-javascript.html)<br/>
 [Conditional Statements](https://www.guru99.com/how-to-use-conditional-statements-in-javascript.html)<br/>
-
-
 [JavaScript Define & Call Functions](https://www.guru99.com/learn-functions-in-javascript-in-5-minutes.html)<br/>
 [Cookies in JavaScript](https://www.guru99.com/cookies-in-javascript-ultimate-guide.html)<br/>
 [JavaScript DOM Tutorial](https://www.guru99.com/how-to-use-dom-and-events-in-javascript.html)<br/>
