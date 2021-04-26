@@ -122,8 +122,35 @@ This is a software engineer learning roadmap compiled from various sources.
 
 ## Backend
 ### PHP
-[PHP Tutorial by Tutorial Republic](https://www.tutorialrepublic.com/php-tutorial/)<br/>
+[Basic & Advanced PHP Tutorial by Tutorial Republic](https://www.tutorialrepublic.com/php-tutorial/)<br/>
 ### Python
+Introduction to Python,
+Installation and Setup Local Development Environment,
+Write our first Python program,
+Python IDE vs simple File Editor,
+Strings and Number Data Types,
+Variables,
+Encapsulate Logic with Functions,
+Accepting User Input,
+Conditionals (if / else) and Boolean Data Type,
+Error Handling with Try / Except,
+While Loops,
+Lists and For Loops,
+Comments in Python,
+Sets,
+Built-In Functions,
+Dictionary Data Type,
+Modularize your project with Modules,
+Project: Countdown App,
+Packages, PyPI and pip,
+Project: Automation with Python (Working with Spreadsheets),
+Object Oriented Programming: Classes and Objects,
+Project: API Request to GitLab
+
+<br/>
+[Python Tutorial for Beginners](https://www.youtube.com/watch?v=t8pPdKYpowI&feature=emb_imp_woyt)<br/>
+
+
 ### Java
 ### Go
 ### Rust
