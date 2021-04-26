@@ -124,6 +124,8 @@ This is a software engineer learning roadmap compiled from various sources.
 ### PHP
 [Basic & Advanced PHP Tutorial by Tutorial Republic](https://www.tutorialrepublic.com/php-tutorial/)<br/>
 ### Python
+Python Tutorial for Beginners - https://www.youtube.com/watch?v=t8pPdKYpowI
+<br/>
 Introduction to Python,
 Installation and Setup Local Development Environment,
 Write our first Python program,
@@ -147,8 +149,6 @@ Project: Automation with Python (Working with Spreadsheets),
 Object Oriented Programming: Classes and Objects,
 Project: API Request to GitLab
 
-<br/>
-Python Tutorial for Beginners - https://www.youtube.com/watch?v=t8pPdKYpowI
 
 ### Java
 ### Go
