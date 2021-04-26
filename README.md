@@ -148,8 +148,7 @@ Object Oriented Programming: Classes and Objects,
 Project: API Request to GitLab
 
 <br/>
-[Python Tutorial for Beginners](https://www.youtube.com/watch?v=t8pPdKYpowI&feature=emb_imp_woyt)<br/>
-
+Python Tutorial for Beginners - https://www.youtube.com/watch?v=t8pPdKYpowI
 
 ### Java
 ### Go
