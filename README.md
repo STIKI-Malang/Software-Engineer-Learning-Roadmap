@@ -119,3 +119,30 @@ This is a software engineer learning roadmap compiled from various sources.
 [Java vs JavaScript](https://www.guru99.com/difference-between-java-and-javascript.html)<br/>
 [QuickSort in JavaScript](https://www.guru99.com/quicksort-in-javascript.html)<br/>
 [Difference Between =, ==, and === in JavaScript](https://www.guru99.com/difference-equality-strict-operator-javascript.html)<br/>
+
+## Backend
+### PHP
+[PHP Tutorial by Tutorial Republic](https://www.tutorialrepublic.com/php-tutorial/)<br/>
+### Python
+### Java
+### Go
+### Rust
+
+## Version Control Systems (GIT)
+
+## Databases
+
+### Relational Databases
+#### MySQL
+#### PostgreeSQL
+
+### NoSQL Databases
+#### MongoDB
+#### RethinkDB
+#### CounchDB
+#### DynamoDB
+
+
+
+
+
