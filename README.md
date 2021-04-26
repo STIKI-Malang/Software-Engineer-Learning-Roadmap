@@ -125,7 +125,7 @@ This is a software engineer learning roadmap compiled from various sources.
 [Basic & Advanced PHP Tutorial by Tutorial Republic](https://www.tutorialrepublic.com/php-tutorial/)<br/>
 ### Python
 Python Tutorial for Beginners - https://www.youtube.com/watch?v=t8pPdKYpowI
-<br/>
+<br/><br/>
 Introduction to Python,
 Installation and Setup Local Development Environment,
 Write our first Python program,
