@@ -127,6 +127,7 @@ This is a software engineer learning roadmap compiled from various sources.
 [PHP For Absolute Beginners | 6.5 Hour Course](https://youtu.be/2eebptXfEvw)<br/>
 ### Python
 [Python Tutorial for Beginners - Learn Python in 5 Hours](https://youtu.be/t8pPdKYpowI)<br/>
+[The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)<br/>
 ### Java
 ### Go
 ### Rust
